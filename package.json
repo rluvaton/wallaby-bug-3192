@@ -1,0 +1,10 @@
+{
+  "name": "wallaby-stdout-not-output",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
